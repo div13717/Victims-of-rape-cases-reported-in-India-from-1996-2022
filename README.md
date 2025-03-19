@@ -1,7 +1,6 @@
 # Victims-of-rape-cases-reported-in-India-from-1996-2022
 Data source https://www.data.gov.in/
 Python libraries : pandas, matplotlib
-platform 
 Description
 Performing data analysis on a dramaframe from collection of various datasets
 Data source https://www.data.gov.in/
