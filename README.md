@@ -7,10 +7,11 @@ Python libraries : pandas, matplotlib
 ## step 1
 download datasets of cases reported in various years
 ## step 2
-collecte the total cases from each year
+collect the total cases from each year
 ## step 3
 Import pandas and matplotlib if already exists else pip install in cmd
 import pandas as pd
+
 import matplotlib.pyplot as plt
 ## step 4
 Create a dataframe for collected total cases each year using pandas
