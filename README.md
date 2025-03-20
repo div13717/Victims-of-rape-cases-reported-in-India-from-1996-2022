@@ -18,6 +18,6 @@ Create a dataframe for collected total cases each year using pandas
 Develop data visualizations like bar graph,line graph,pie chart,scatter graph using matplotlib
 ## step 6
 Perform statistical analysis on line graph 
-#Analysis:
+## Analysis:
 Observed highest percentage increase 34.53% from 2012 to 2013 and the year with highest cases reported is 2016 with 39068 cases.
 
