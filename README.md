@@ -1,15 +1,15 @@
 # Victims-of-rape-cases-reported-in-India-from-1996-2022
-Data source https://www.data.gov.in/
-Python libraries : pandas, matplotlib
-Description
+# Data source https://www.data.gov.in/
+# Python libraries : pandas, matplotlib
+# Description
 Performing data analysis on a dramaframe from collection of various datasets
-Data source https://www.data.gov.in/
+# Data source https://www.data.gov.in/
 Python libraries : pandas, matplotlib
-step 1
+# step 1
 download datasets of cases reported in various years
-step 2
+# step 2
 collecte the total cases from each year
-step 3
+# step 3
 Import pandas and matplotlib if already exists else pip install in cmd
 import pandas as pd
 import matplotlib.pyplot as plt
