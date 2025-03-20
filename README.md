@@ -3,7 +3,6 @@
 # Python libraries : pandas, matplotlib
 # Description
 Performing data analysis on a dramaframe from collection of various datasets
-# Data source https://www.data.gov.in/
 Python libraries : pandas, matplotlib
 ## step 1
 download datasets of cases reported in various years
